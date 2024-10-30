@@ -7,7 +7,7 @@
 #
 Name     : pypi-msrestazure
 Version  : 0.6.4.post1
-Release  : 16
+Release  : 17
 URL      : https://files.pythonhosted.org/packages/5d/86/06a086e4ed3523765a1917665257b1828f1bf882130768445f082a4c3484/msrestazure-0.6.4.post1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5d/86/06a086e4ed3523765a1917665257b1828f1bf882130768445f082a4c3484/msrestazure-0.6.4.post1.tar.gz
 Summary  : AutoRest swagger generator Python client runtime. Azure-specific module.
